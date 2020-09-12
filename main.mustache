@@ -12,4 +12,4 @@
 [![Spotify](https://spotify-api.joshuanoakes.co.uk/api/spotify)](https://spotify.joshuanoakes.co.uk)
 
 ### Github Stats 🕓
-![Joshua's github stats](https://github-readme-stats.vercel.app/api?username=joshua-noakes1&show_icons=true&theme=synthwave)
+[![Joshua's github stats](https://github-readme-stats.vercel.app/api?username=joshua-noakes1&show_icons=true&theme=synthwave)](https://github.com/joshua-noakes1?tab=repositories)
