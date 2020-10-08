@@ -1,4 +1,4 @@
-## Hi there, I'm Joshua and It's Wednesday, 7 October 👋   
+## Hi there, I'm Joshua and It's Thursday, 8 October 👋   
 
 [![Website](https://img.shields.io/website?down_color=red&down_message=Offline&label=joshuanoakes.co.uk&logo=joshuanoakes.co.uk&style=for-the-badge&up_color=green&up_message=Online&url=https%3A%2F%2Fjoshuanoakes.co.uk)](https://joshuanoakes.co.uk)
 [![Twitter Follow](https://img.shields.io/twitter/follow/jokeryoda2345?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fjoshua-noakes1&screen_name=jokeryoda2345)
