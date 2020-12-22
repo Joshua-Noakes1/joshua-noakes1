@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Joshua-Noakes1/joshua-noakes1#readme",
   "dependencies": {
+    "delay": "^4.4.0",
     "mustache": "^4.0.1"
   }
 }
