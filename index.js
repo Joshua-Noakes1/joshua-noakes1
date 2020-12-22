@@ -5,7 +5,7 @@ const MUSTACHE_MAIN_DIR = './main.mustache';
 const data = require('./data/data');
 const emoji_now = require('./subset/emoji');
 const date_now = require('./subset/date');
-
+const time_now = require('./subset/time');
 // making sure emoji and date pickers run
 emoji_now.emoji();
 date_now.date_cheker();
@@ -14,10 +14,7 @@ date_now.date_cheker();
 let DATA = {
     name: 'Joshua',
     date: data.data.date,
-    time: new Date().toLocaleTimeString('en-GB', {
-        hour: 'numeric',
-        timeZone: 'Europe/London',
-    }),
+    tn: data.data.time,
     emoji: data.data.emoji
 };
 
