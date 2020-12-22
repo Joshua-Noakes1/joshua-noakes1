@@ -14,6 +14,11 @@ date_now.date_cheker();
 let DATA = {
     name: 'Joshua',
     date: data.data.date,
+    time: new Date().toLocaleTimeString('en-GB', {
+        hour: 'numeric',
+        minute: 'numeric',
+        timeZone: 'Europe/London',
+    }),
     emoji: data.data.emoji
 };
 
