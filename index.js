@@ -9,7 +9,7 @@ const time_now = require('./subset/time');
 // making sure emoji and date pickers run
 emoji_now.emoji();
 date_now.date_cheker();
-
+time_now.time_func();
 // building our data for mustache
 let DATA = {
     name: 'Joshua',
