@@ -16,7 +16,6 @@ let DATA = {
     date: data.data.date,
     time: new Date().toLocaleTimeString('en-GB', {
         hour: 'numeric',
-        minute: 'numeric',
         timeZone: 'Europe/London',
     }),
     emoji: data.data.emoji
