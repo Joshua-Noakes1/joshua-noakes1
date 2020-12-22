@@ -29,7 +29,5 @@ jobs:
         run: node index.js
       - name: Commit and Push new README.md to the repository
         uses: mikeal/publish-to-github-action@master
-      - name: All Done!
-        run: echo All Done!
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
