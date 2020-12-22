@@ -18,7 +18,7 @@ const month = new Date().toLocaleDateString('en-GB', {
 })
 
 if (month == 12) {
-    if (date == 22) {
+    if (date == 25) {
         var dayemoji = '🎄';
     } else if (date == 31) {
         var dayemoji = '🎉';
