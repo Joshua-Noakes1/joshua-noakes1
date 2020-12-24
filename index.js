@@ -1,5 +1,6 @@
 // we import mustache, filesystem, our mustache file, big data array, emoji picker, date picker
 const Mustache = require('mustache');
+const delay = require('delay');
 const fs = require('fs');
 const MUSTACHE_MAIN_DIR = './main.mustache';
 const data = require('./data/data');
@@ -10,6 +11,13 @@ const time_now = require('./subset/time');
 emoji_now.emoji();
 date_now.date_cheker();
 time_now.time_func();
+
+while (data.data.complete.date == 0) {
+    (async () => {
+        await delay(1 * 1000);
+    })();
+}
+
 // building our data for mustache
 let DATA = {
     name: 'Joshua',
@@ -30,4 +38,5 @@ function generateReadMe() {
         fs.writeFileSync('README.md', output);
     });
 }
+
 generateReadMe();

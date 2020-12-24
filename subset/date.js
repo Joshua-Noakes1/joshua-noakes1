@@ -19,10 +19,8 @@ const number = new Date().toLocaleDateString('en-GB', {
     timeZone: 'Europe/London'
 });
 
-const lastnumber = number % 10;
-
 function date() {
-    switch (lastnumber) {
+    switch (number) {
         case 1:
             localdata.changed = 1;
             localdata.text = `${weekday}, the ${number}st of ${month}`;
@@ -35,9 +33,21 @@ function date() {
             localdata.changed = 1;
             localdata.text = `${weekday}, the ${number}rd of ${month}`;
             break;
+        case 11:
+            localdata.changed = 1;
+            localdata.text = `${weekday}, the ${number}th of ${month}`;
+            break;
+        case 12:
+            localdata.changed = 1;
+            localdata.text = `${weekday}, the ${number}th of ${month}`;
+            break;
+        case 13:
+            localdata.changed = 1;
+            localdata.text = `${weekday}, the ${number}th of ${month}`;
+            break;
         default:
             localdata.changed = 1;
-            console.log(`${weekday}, the ${number}th of ${month}`);
+            localdata.text = `${weekday}, the ${number}th of ${month}`;
     }
 }
 
@@ -70,5 +80,6 @@ function date_cheker() {
     data.data.date = localdata.text;
 }
 
-
-module.exports = {date_cheker};
+module.exports = {
+    date_cheker
+};
