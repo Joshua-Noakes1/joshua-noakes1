@@ -21,39 +21,39 @@ const number = new Date().toLocaleDateString('en-GB', {
 
 function date() {
     switch (number) {
-        case 1:
+        case '1':
             localdata.changed = 1;
             localdata.text = `${weekday}, the ${number}st of ${month}`;
             break;
-        case 2:
+        case '2':
             localdata.changed = 1;
             localdata.text = `${weekday}, the ${number}nd of ${month}`;
             break;
-        case 3:
+        case '3':
             localdata.changed = 1;
             localdata.text = `${weekday}, the ${number}rd of ${month}`;
             break;
-        case 11:
+        case '11':
             localdata.changed = 1;
             localdata.text = `${weekday}, the ${number}th of ${month}`;
             break;
-        case 12:
+        case '12':
             localdata.changed = 1;
             localdata.text = `${weekday}, the ${number}th of ${month}`;
             break;
-        case 13:
+        case '13':
             localdata.changed = 1;
             localdata.text = `${weekday}, the ${number}th of ${month}`;
             break;
-        case 21:
+        case '21':
             localdata.changed = 1;
             localdata.text = `${weekday}, the ${number}st of ${month}`;
             break;
-        case 22:
+        case '22':
             localdata.changed = 1;
             localdata.text = `${weekday}, the ${number}nd of ${month}`;
             break;
-        case 23:
+        case '23':
             localdata.changed = 1;
             localdata.text = `${weekday}, the ${number}rd of ${month}`;
             break;
