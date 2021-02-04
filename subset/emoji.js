@@ -37,7 +37,12 @@ function emoji() {
                     data.data.emoji = '👋';
             }
             break;
+        default:
+            data.data.complete.emoji = 1;
+            data.data.emoji = '👋';
     }
 };
 
-module.exports = {emoji};
+module.exports = {
+    emoji
+};
