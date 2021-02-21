@@ -57,6 +57,10 @@ function date() {
             localdata.changed = 1;
             localdata.text = `${weekday}, the ${number}rd of ${month}`;
             break;
+        case '31':
+            localdata.changed = 1;
+            localdata.text = `${weekday}, the ${number}st of ${month}`;
+            break;
         default:
             localdata.changed = 1;
             localdata.text = `${weekday}, the ${number}th of ${month}`;
