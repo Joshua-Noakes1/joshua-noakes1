@@ -6,7 +6,6 @@
 ### I'm currently studying computer science 💻
 - 🗻  See some more of my projects [here](https://github.com/joshua-noakes1?tab=repositories)!
 - 📖  I'm currently learning Python and NodeJS
-- 🌍  I've previously worked with HTML and CSS
 
 ### Spotify Current Playing 🎵
 [![Spotify](https://spotify-api.joshuanoakes.co.uk/api/spotify)](https://spotify.joshuanoakes.co.uk)
