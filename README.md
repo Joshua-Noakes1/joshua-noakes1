@@ -13,4 +13,4 @@
 
 ### Github Stats 🕓
 [![Joshua's github stats](https://github-readme-stats.vercel.app/api?username=joshua-noakes1&show_icons=true&theme=radical)](https://github.com/joshua-noakes1?tab=repositories)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=joshua-noakes1&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=joshua-noakes1&theme=radical)](https://github.com/joshua-noakes1?tab=repositories)
