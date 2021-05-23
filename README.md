@@ -9,7 +9,7 @@
 - 📖  I'm currently learning Python and NodeJS
 
 ### Spotify Currently Playing 🎵
-![Spotify](https://novatorem.joshuanoakes.co.uk)
+[![Spotify](https://novatorem.joshuanoakes.co.uk)](https://spotify.joshuanoakes.co.uk)
 
 ### Github Stats 🕓
 [![Joshua's github stats](https://github-readme-stats.vercel.app/api?username=joshua-noakes1&show_icons=true&theme=radical)](https://github.com/joshua-noakes1?tab=repositories)
