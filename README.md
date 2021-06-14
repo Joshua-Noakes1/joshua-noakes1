@@ -1,4 +1,4 @@
-## Hi there I'm Joshua, its currently Monday, the 14th of June 👋
+## Hi there I'm Joshua, its currently Tuesday, the 15th of June 👋
 
 ![GitHub User's stars](https://img.shields.io/github/stars/joshua-noakes1?label=Github%20Stars&style=for-the-badge)
 [![Twitter Follow](https://img.shields.io/twitter/follow/jokeryoda2345?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fjoshua-noakes1&screen_name=jokeryoda2345)
