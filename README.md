@@ -4,11 +4,11 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/jokeryoda2345?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fjoshua-noakes1&screen_name=jokeryoda2345)
 [![Visits Badge](https://badges.pufler.dev/visits/joshua-noakes1/joshua-noakes1?style=for-the-badge)](https://joshuanoakes.co.uk)
 
-### Saul Goodman
-![](https://github.com/Joshua-Noakes1/Lake-CDN/blob/master/CDN/Other%20Repos/joshua-noakes1/tenor%20(3).gif?raw=true)
-
 ### Spotify Currently Playing 🎵
 [![Spotify](https://novatorem.joshuanoakes.co.uk)](https://spotify.joshuanoakes.co.uk)
+
+### Saul Goodman
+![](https://github.com/Joshua-Noakes1/Lake-CDN/blob/master/CDN/Other%20Repos/joshua-noakes1/tenor%20(3).gif?raw=true)
 
 ### Github Stats 🕓
 [![Joshua's github stats](https://github-readme-stats-joshuanoakes1.vercel.app/api?username=joshua-noakes1&show_icons=true&theme=radical)](https://github.com/joshua-noakes1?tab=repositories)
