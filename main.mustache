@@ -5,7 +5,7 @@
 [![Visits Badge](https://badges.pufler.dev/visits/joshua-noakes1/joshua-noakes1?style=for-the-badge)](https://joshuanoakes.co.uk)
 
 ### Saul Goodman
-![](https://media1.tenor.com/images/f68f6526bec22b8d88edbf7160f469cb/tenor.gif)
+![](https://github.com/Joshua-Noakes1/Lake-CDN/blob/master/CDN/Other%20Repos/joshua-noakes1/tenor%20(3).gif?raw=true)
 
 ### Spotify Currently Playing 🎵
 [![Spotify](https://novatorem.joshuanoakes.co.uk)](https://spotify.joshuanoakes.co.uk)
