@@ -4,6 +4,9 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/jokeryoda2345?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fjoshua-noakes1&screen_name=jokeryoda2345)
 [![Visits Badge](https://badges.pufler.dev/visits/joshua-noakes1/joshua-noakes1?style=for-the-badge)](https://joshuanoakes.co.uk)
 
+### Saul Goodman
+![](https://media1.tenor.com/images/f68f6526bec22b8d88edbf7160f469cb/tenor.gif)
+
 ### Spotify Currently Playing 🎵
 [![Spotify](https://novatorem.joshuanoakes.co.uk)](https://spotify.joshuanoakes.co.uk)
 
