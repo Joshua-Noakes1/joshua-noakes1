@@ -3,7 +3,7 @@ name: Build README.md
 on:
   push:
     branches:
-      - master
+      - "trunk"
   schedule:
     - cron: '0 */24 * * *'
 
