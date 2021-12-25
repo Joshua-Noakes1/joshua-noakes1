@@ -1,25 +1,15 @@
 function emoji(date) {
-    if (date.month == 'January') {
-        // new years day
-        if (Number(date.date) == 1) {
-            var currentEmoji = '🥳';
-        }
-    } else if (date.month == 'December') {
-        // christmas 
-        if (Number(date.date) == 25) {
-            var currentEmoji = '🎄';
-            // new years eve
-        } else if (Number(date.date) == 31) {
-            var currentEmoji = '🎉';
-        }
+    switch (date.month) {
+        case '0': // January
+            if (date.date == '1') return '🎉';
+            break;
+        case '11': // December
+            if (date.date == '25') return '🎄';
+            if (date.date == '31') return '🎉';
+            break;
+        default:
+            return '👋';
     }
-
-    // default
-    if (!currentEmoji) {
-        var currentEmoji = '👋';
-    }
-
-    return currentEmoji;
 }
 
 module.exports = {
