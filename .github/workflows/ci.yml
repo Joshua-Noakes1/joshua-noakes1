@@ -5,7 +5,7 @@ on:
     branches:
       - "trunk"
   schedule:
-    - cron: '0 */24 * * *'
+    - cron: "0 */24 * * *"
 
 jobs:
   build:
@@ -15,11 +15,11 @@ jobs:
       - name: Checkout current repository
         uses: actions/checkout@v2
         with:
-          ref: 'trunk'
+          ref: "trunk"
       - name: Setup NodeJS
         uses: actions/setup-node@v2
         with:
-          node-version: '16'
+          node-version: "16"
       - name: Cache dependencies and build outputs to improve workflow execution time.
         uses: actions/cache@v2
         with:
@@ -33,4 +33,4 @@ jobs:
         uses: mikeal/publish-to-github-action@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          BRANCH_NAME: 'trunk'
+          BRANCH_NAME: "trunk"
