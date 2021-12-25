@@ -8,7 +8,7 @@
 [![Spotify](https://novatorem-sigma-vert.vercel.app/api/spotify)](https://open.spotify.com/user/joshthekid234)
 
 ### Saul Goodman
-![](https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;Joshua-Noakes1&#x2F;Lake-CDN&#x2F;master&#x2F;CDN&#x2F;Other%20Repos&#x2F;joshua-noakes1&#x2F;tenor%20(3).gif)
+![](https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;Joshua-Noakes1&#x2F;Lake-CDN&#x2F;master&#x2F;CDN&#x2F;Other%20Repos&#x2F;joshua-noakes1&#x2F;caught-trolling.gif)
 
 ### Github Stats 🕓
 [![Joshua's github stats](https://github-readme-stats-joshuanoakes1.vercel.app/api?username=joshua-noakes1&show_icons=true&theme=radical)](https://github.com/joshua-noakes1?tab=repositories)
