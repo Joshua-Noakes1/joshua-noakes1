@@ -8,7 +8,6 @@ const mustache = require('mustache'),
 async function start() {
     // get current date and time
     const readmeData = {
-        currentDate: await require('./bin/dateTime')(Date.now()),
         currentEmoji: await require('./bin/emoji')(),
         currentGif: await require('./bin/currentGif')()
     }
@@ -16,7 +15,7 @@ async function start() {
     // create README
     readFile(path.join(__dirname, './', 'lib', 'mustache', 'readme.mustache'), (err, data) => {
         if (err) throw err;
-        writeFileSync(path.join(__dirname, 'README.md'), mustache.render(data.toString(), readmeData));
+        writeFileSync(path.join(__dirname, 'README.dev.md'), mustache.render(data.toString(), readmeData));
     });
 }
 
