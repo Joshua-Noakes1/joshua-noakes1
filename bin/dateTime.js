@@ -42,6 +42,4 @@ function dateTime() {
     }
 }
 
-module.exports = {
-    dateTime
-}
+module.exports = dateTime;
