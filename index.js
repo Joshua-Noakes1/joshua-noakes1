@@ -15,7 +15,7 @@ async function start() {
     // create README
     readFile(path.join(__dirname, './', 'lib', 'mustache', 'readme.mustache'), (err, data) => {
         if (err) throw err;
-        writeFileSync(path.join(__dirname, 'README.dev.md'), mustache.render(data.toString(), readmeData));
+        writeFileSync(path.join(__dirname, 'README.md'), mustache.render(data.toString(), readmeData));
     });
 }
 
