@@ -9,7 +9,7 @@
 
 ### Crazy Blue Braids
 
-![Crazy Blue Braids](https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;Joshua-Noakes1&#x2F;Lake-CDN&#x2F;master&#x2F;CDN&#x2F;Other%20Repos&#x2F;joshua-noakes1&#x2F;jinx-jinx-arcane.gif)
+![Crazy Blue Braids](https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;Joshua-Noakes1&#x2F;Lake-CDN&#x2F;master&#x2F;CDN&#x2F;Other%20Repos&#x2F;joshua-noakes1&#x2F;shut-up-cracker-arcane.gif)
 
 ### Github Stats
 
