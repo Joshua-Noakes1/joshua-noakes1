@@ -6,6 +6,9 @@ function emoji() {
         case '0': // January
             if (date.date == '1') return '🎉';
             return '👋';
+        case '1': // February
+            if (date.date == '14') return '❤';
+            return '👋';
         case '11': // December
             if (date.date == '25') return '🎄';
             if (date.date == '31') return '🎉';
