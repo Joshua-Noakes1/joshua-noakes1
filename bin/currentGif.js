@@ -4,7 +4,7 @@ const {
     path = require('path');
 
 async function currentGif() {
-    var listOfGifs = [path.join(__dirname, 'gifs', 'jinx.json')];
+    var listOfGifs = [path.join(__dirname, 'gifs', 'jinx.json'), path.join(__dirname, 'gifs', 'junko.json')];
     var gifs = await readJSON(listOfGifs[Math.floor(Math.random() * listOfGifs.length)], true);
     return gifs[Math.floor(Math.random() * gifs.length)];
 }
