@@ -7,9 +7,9 @@
 
 [![Spotify](https://novatorem-sigma-vert.vercel.app/api/spotify)](https://open.spotify.com/user/joshthekid234)
 
-### feral angry pilot
+### Instagram thud sound effect no. 224
 
-![feral angry pilot](https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;Joshua-Noakes1&#x2F;Lake-CDN&#x2F;master&#x2F;CDN&#x2F;Other%20Repos&#x2F;joshua-noakes1&#x2F;arf-bark.gif)
+![Instagram thud sound effect no. 224](https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;Joshua-Noakes1&#x2F;Lake-CDN&#x2F;master&#x2F;CDN&#x2F;Other%20Repos&#x2F;joshua-noakes1&#x2F;jinx-jinx-arcane2.gif)
 
 ### Github Stats
 
