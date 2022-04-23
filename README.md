@@ -7,9 +7,9 @@
 
 [![Spotify](https://novatorem-sigma-vert.vercel.app/api/spotify)](https://open.spotify.com/user/joshthekid234)
 
-### feral angry despair
+### insane asuka
 
-![feral angry despair](https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;Joshua-Noakes1&#x2F;Lake-CDN&#x2F;master&#x2F;CDN&#x2F;Other%20Repos&#x2F;joshua-noakes1&#x2F;angry-junko.gif)
+![insane asuka](https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;Joshua-Noakes1&#x2F;Lake-CDN&#x2F;master&#x2F;CDN&#x2F;Other%20Repos&#x2F;joshua-noakes1&#x2F;asuka-evangelion.gif)
 
 ### Github Stats
 
