@@ -7,9 +7,9 @@
 
 [![Spotify](https://novatorem-sigma-vert.vercel.app/api/spotify)](https://open.spotify.com/user/joshthekid234)
 
-### He puts criminal into Criminal Lawyer
+### kali looking what is she looking for?
 
-![He puts criminal into Criminal Lawyer](https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;Joshua-Noakes1&#x2F;Lake-CDN&#x2F;master&#x2F;CDN&#x2F;Other%20Repos&#x2F;joshua-noakes1&#x2F;saul-goodman-breaking-bad.gif)
+![kali looking what is she looking for?](https:&#x2F;&#x2F;github.com&#x2F;Joshua-Noakes1&#x2F;Lake-CDN&#x2F;blob&#x2F;master&#x2F;CDN&#x2F;Other%20Repos&#x2F;joshua-noakes1&#x2F;kali.gif?raw&#x3D;true)
 
 ### Github Stats
 
