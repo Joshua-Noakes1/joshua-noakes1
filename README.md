@@ -5,11 +5,11 @@
 
 ### Spotify Currently Playing
 
-[![Spotify](https://novatorem-sigma-vert.vercel.app/api/spotify)](https://open.spotify.com/user/joshthekid234)
+[![Spotify](https://novatorem-sigma-vert.vercel.app/api/spotify?background_color=333&border_color=ffffff)](https://open.spotify.com/user/joshthekid234)
 
-### kali looking what is she looking for?
+### mmmmmm ganyu eata da flower
 
-![kali looking what is she looking for?](https:&#x2F;&#x2F;github.com&#x2F;Joshua-Noakes1&#x2F;Lake-CDN&#x2F;blob&#x2F;master&#x2F;CDN&#x2F;Other%20Repos&#x2F;joshua-noakes1&#x2F;kali.gif?raw&#x3D;true)
+![mmmmmm ganyu eata da flower](https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;Joshua-Noakes1&#x2F;Lake-CDN&#x2F;master&#x2F;CDN&#x2F;Other%20Repos&#x2F;joshua-noakes1&#x2F;ganyu-flowers.gif)
 
 ### Github Stats
 
