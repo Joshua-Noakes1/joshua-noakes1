@@ -7,10 +7,6 @@
 
 [![Spotify](https://novatorem-sigma-vert.vercel.app/api/spotify?background_color=333&border_color=ffffff)](https://open.spotify.com/user/joshthekid234)
 
-### feral angry despair
-
-![feral angry despair](https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;Joshua-Noakes1&#x2F;Lake-CDN&#x2F;master&#x2F;CDN&#x2F;Other%20Repos&#x2F;joshua-noakes1&#x2F;angry-junko.gif)
-
 ### Github Stats
 
 [![Joshua's github stats](https://github-readme-stats-joshuanoakes1.vercel.app/api?username=joshua-noakes1&show_icons=true&theme=radical)](https://github.com/joshua-noakes1?tab=repositories)
