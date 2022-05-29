@@ -8,8 +8,8 @@ const mustache = require('mustache'),
 async function start() {
     // get current date and time
     const readmeData = {
-        currentEmoji: await require('./bin/emoji')(),
-        currentGif: await require('./bin/currentGif')()
+        currentEmoji: require('random-unicode-emoji').random({count: 1})[0],
+        currentGif: await require('./lib/currentGif')()
     }
 
     // create README

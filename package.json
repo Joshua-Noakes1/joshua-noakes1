@@ -19,6 +19,7 @@
   "dependencies": {
     "cli-color": "^2.0.2",
     "mustache": "^4.2.0",
-    "path": "^0.12.7"
+    "path": "^0.12.7",
+    "random-unicode-emoji": "^1.0.2"
   }
 }
