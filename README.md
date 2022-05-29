@@ -1,16 +1,16 @@
-## <center> Hi there, I'm Joshua 👋
+## <p align="center"> Hi there, I'm Joshua 👋 </p>
 
-### <center> Spotify Currently Playing </center>
+### <p align="center"> Spotify Currently Playing </p>
 
 <br>
 
-<center>
+<p align="center">
 
 [![Spotify](https://novatorem-sigma-vert.vercel.app/api/spotify?background_color=333&border_color=ffffff)](https://open.spotify.com/user/joshthekid234)
 
-</center>
+</p>
 
-### <center> Github Stats </center>
+### <p align="center"> Github Stats </p>
 <table width="100%"> 
   <tr>
   <td width="50%">
