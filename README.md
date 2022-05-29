@@ -6,6 +6,8 @@
 
 <p align="center">
 
+<a href="https://google.com" target="_blank"><img src="https://novatorem-sigma-vert.vercel.app/api/spotify?background_color=333&border_color=ffffff" alt="Spotify Currently Playing"></a>
+
 [![Spotify](https://novatorem-sigma-vert.vercel.app/api/spotify?background_color=333&border_color=ffffff)](https://open.spotify.com/user/joshthekid234)
 
 </p>
