@@ -1,6 +1,6 @@
-## <p align="center"> Hi there, I'm Joshua 👋 </p>
+## <p align="center">Hi there, I'm Joshua 👋</p>
 
-### <p align="center"> Spotify Currently Playing </p>
+### <p align="center">Currently Playing</p>
 
 <br>
 
@@ -12,7 +12,7 @@
 
 </p>
 
-### <p align="center"> Github Stats </p>
+### <p align="center">Github Stats</p>
 <table width="100%"> 
   <tr>
   <td width="50%">
