@@ -1,37 +1,5 @@
-## <p align="center">Hi there, I'm Joshua 👋</p>
-
-### <p align="center">Currently Playing</p>
-
-<br>
-
 <p align="center">
-
-<a href="https://google.com" target="_blank"><img src="https://novatorem-sigma-vert.vercel.app/api/spotify?background_color=333&border_color=ffffff" alt="Spotify Currently Playing"></a>
-
-[![Spotify](https://novatorem-sigma-vert.vercel.app/api/spotify?background_color=333&border_color=ffffff)](https://open.spotify.com/user/joshthekid234)
-
-</p>
-
-<hr>
-
-### <p align="center">Github Stats</p>
-<table width="100%"> 
-  <tr>
-  <td width="50%">
-      
-&nbsp; <br> [![Joshua's github stats](https://github-readme-stats-joshuanoakes1.vercel.app/api?username=joshua-noakes1&show_icons=true&theme=radical)](https://github.com/joshua-noakes1?tab=repositories)
-
-  </td>
-  <td width="50%">
-
-<br> [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=joshua-noakes1&theme=radical)](https://github.com/joshua-noakes1?tab=repositories)
-
-</p>
-  </td>
-  </table>
-
-
-<p align="center">
+    <h1 align="center">Hey, I'm Joshua</h1>
   <b>Some Links:</b><br>
   <a href="#">Link 1</a> |
   <a href="#">Link 2</a> |
