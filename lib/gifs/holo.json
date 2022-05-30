@@ -1,14 +1,19 @@
 [
   {
-    "name": "kali looking what is she looking for?",
-    "gif": "https://raw.githubusercontent.com/Joshua-Noakes1/joshua-noakes1/dev/lib/gifs/media/kali.gif?raw=true"
+    "name": "Cali looking what is she looking for?",
+    "gif": "kali.gif"
   },
   {
     "name": "Stupid phoenix come",
-    "gif": "https://raw.githubusercontent.com/Joshua-Noakes1/joshua-noakes1/dev/lib/gifs/media/kfp-hololive.gif?raw=true"
+    "gif": "kfp-hololive.gif"
   },
   {
     "name": "What the phoenix doing",
-    "gif": "https://raw.githubusercontent.com/Joshua-Noakes1/joshua-noakes1/dev/lib/gifs/media/takanashi-kiara-vtuber.gif?raw=true"
+    "gif": "takanashi-kiara-vtuber.gif"
+  },
+  {
+    "name": "Copteronii",
+    "gif": "ouro-kronii-cursed.gif"
+
   }
 ]
