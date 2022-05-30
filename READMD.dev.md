@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Joshua 🐱‍👤</h1>
+<h1 align="center">Hey, I'm <a href="https://www.cocogoat.xyz">Joshua</a> 🐱‍👤</h1>
 <p align="center">"It can’t be a good morning I’m not fishing" -Asuka Langley Soryu</p>
 <h2 align="center">Spotify Currently Playing 🎶</h1>
 <p align="center">
