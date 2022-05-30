@@ -1,5 +1,6 @@
+<h1 align="center">Hey, I'm Joshua 🐱‍👤</h1>
 <p align="center">
-    <h2 align="center">Hey, I'm Joshua</h2>
+
   <b>Some Links:</b><br>
   <a href="#">Link 1</a> |
   <a href="#">Link 2</a> |
