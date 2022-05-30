@@ -4,5 +4,5 @@
   <a href="#">Link 2</a> |
   <a href="#">Link 3</a>
   <br><br>
-  <img src="https://c.tenor.com/VLwaGpGpLp0AAAAd/takanashi-kiara-vtuber.gif">
+  <img src="https://raw.githubusercontent.com/Joshua-Noakes1/joshua-noakes1/dev/lib/gifs/media/takanashi-kiara-vtuber.gif?raw=true">
 </p>
