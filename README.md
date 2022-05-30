@@ -1,6 +1,5 @@
 <h1 align="center">Hey, I'm Joshua 🐱‍👤</h1>
 <h2 align="center">Spotify Currently Playing 🎶</h1>
-<br>
 <p align="center">
   <img src="https://novatorem-sigma-vert.vercel.app/api/spotify?background_color=333&border_color=ffffff">
 </p>
