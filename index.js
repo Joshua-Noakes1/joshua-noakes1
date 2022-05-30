@@ -22,7 +22,7 @@ const mustache = require('mustache'),
             console.log(lcl.red("[Template - Error]"), `Could not read the template for the README.`);
             throw err
         };
-        writeFileSync(path.join(__dirname, process.env.devci !== "true" ? "READMD.md" : "READMD.dev.md"), mustache.render(data.toString(), readmeData));
+        writeFileSync(path.join(__dirname, process.env.devci !== "true" ? "README.md" : "README.dev.md"), mustache.render(data.toString(), readmeData));
     });
     console.log(lcl.green("[Template - Success]"), `Successfully created README for the ${readmeData.date.date}${readmeData.date.ordinal} of ${readmeData.date.monthName} ${readmeData.date.year}`);
 })();
