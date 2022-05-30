@@ -12,6 +12,8 @@
 
 </p>
 
+<hr>
+
 ### <p align="center">Github Stats</p>
 <table width="100%"> 
   <tr>
