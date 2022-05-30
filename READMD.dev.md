@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Joshua 🐱‍👤</h1>
+<h1 align="center">Hey, I'm <a href="https://www.cocogoat.xyz">Joshua</a> 🐱‍👤</h1>
 <p align="center">"It can’t be a good morning I’m not fishing" -Asuka Langley Soryu</p>
 <h2 align="center">Spotify Currently Playing 🎶</h1>
 <p align="center">
@@ -19,7 +19,7 @@
     </a>
   </td>
 </table>
-<h2 align="center">insane asuka</h2>
+<h2 align="center">feral angry pilot</h2>
 <p align="center">
-  <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;Joshua-Noakes1&#x2F;joshua-noakes1&#x2F;dev&#x2F;lib&#x2F;gifs&#x2F;media&#x2F;asuka-evangelion.gif?raw&#x3D;true">
+  <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;Joshua-Noakes1&#x2F;joshua-noakes1&#x2F;dev&#x2F;lib&#x2F;gifs&#x2F;media&#x2F;arf-bark.gif?raw&#x3D;true">
 </p>
