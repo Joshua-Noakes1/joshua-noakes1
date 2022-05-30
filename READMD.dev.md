@@ -1,4 +1,5 @@
 <h1 align="center">Hey, I'm Joshua 🐱‍👤</h1>
+<p align="center">"It can’t be a good morning I’m not fishing" -Asuka Langley Soryu</p>
 <h2 align="center">Spotify Currently Playing 🎶</h1>
 <p align="center">
   <a href="https://open.spotify.com/user/joshthekid234">
@@ -18,7 +19,7 @@
     </a>
   </td>
 </table>
-<h2 align="center">100 gecko</h2>
+<h2 align="center">He puts criminal into Criminal Lawyer</h2>
 <p align="center">
-  <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;Joshua-Noakes1&#x2F;joshua-noakes1&#x2F;dev&#x2F;lib&#x2F;gifs&#x2F;media&#x2F;jinx-jinx-arcane.gif?raw&#x3D;true">
+  <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;Joshua-Noakes1&#x2F;joshua-noakes1&#x2F;dev&#x2F;lib&#x2F;gifs&#x2F;media&#x2F;tenor%20(3).gif?raw&#x3D;true">
 </p>
