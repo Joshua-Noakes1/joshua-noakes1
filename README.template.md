@@ -20,7 +20,5 @@
 </table>
 <h2 align="center">Jif 🌹</h2>
 <p align="center">
-  <a href="https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww/featured">
-    <img src="https://raw.githubusercontent.com/Joshua-Noakes1/joshua-noakes1/dev/lib/gifs/media/takanashi-kiara-vtuber.gif?raw=true">
-  </a>
+  <img src="https://raw.githubusercontent.com/Joshua-Noakes1/joshua-noakes1/dev/lib/gifs/media/takanashi-kiara-vtuber.gif?raw=true">
 </p>
