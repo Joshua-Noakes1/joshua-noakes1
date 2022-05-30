@@ -30,8 +30,6 @@ jobs:
         run: npm install
       - name: Generate README file
         run: node index.js
-      - name: Test remove README.md
-        run: rm -rf READMD.md
       - name: Commit and Push new README.md to the repository
         uses: mikeal/publish-to-github-action@master
         env:
