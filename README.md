@@ -1,4 +1,5 @@
 <h1 align="center">Hey, I'm Joshua 🐱‍👤</h1>
+<p align="center">"It can’t be a good morning I’m not fishing" - Asuka Langley Soryu</p>
 <h2 align="center">Spotify Currently Playing 🎶</h1>
 <p align="center">
   <a href="https://open.spotify.com/user/joshthekid234">
