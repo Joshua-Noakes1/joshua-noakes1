@@ -1,7 +1,3 @@
-<div style="font-style: italic; text-align: center;" markdown="1">
-# Test
-</div>
-
 <h1 align="center">Hey, I'm Joshua 🐱‍👤</h1>
 <h2 align="center">Spotify Currently Playing 🎶</h1>
 <p align="center">
