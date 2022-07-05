@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/Joshua-Noakes1/joshua-noakes1#readme",
   "dependencies": {
-    "cli-color": "^2.0.2",
+    "cli-color": "^2.0.3",
     "mustache": "^4.2.0",
     "path": "^0.12.7"
   }
