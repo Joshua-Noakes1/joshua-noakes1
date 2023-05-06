@@ -19,7 +19,7 @@
     </a>
   </td>
 </table>
-<h2 align="center">What the phoenix doing</h2>
+<h2 align="center">feral angry pilot</h2>
 <p align="center">
-  <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;Joshua-Noakes1&#x2F;joshua-noakes1&#x2F;trunk&#x2F;lib&#x2F;gifs&#x2F;media&#x2F;takanashi-kiara-vtuber.gif?raw&#x3D;true">
+  <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;Joshua-Noakes1&#x2F;joshua-noakes1&#x2F;trunk&#x2F;lib&#x2F;gifs&#x2F;media&#x2F;arf-bark.gif?raw&#x3D;true">
 </p>
