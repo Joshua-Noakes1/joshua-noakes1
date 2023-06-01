@@ -1,11 +1,20 @@
 <h1 align="center">Hey, I'm <a href="https://www.cocogoat.xyz">Joshua</a> 🚀</h1>
 <p align="center">"It can’t be a good morning I’m not fishing" -Asuka Langley Soryu</p>
-<h2 align="center">Spotify Currently Playing 🎶</h1>
-<p align="center">
-  <a href="https://open.spotify.com/user/joshthekid234">
-    <img src="https://novatorem-sigma-vert.vercel.app/api/spotify?background_color=333&border_color=ffffff">
-  </a>
-</p>
+
+<h2 align="center">Currently Playing 🎶</h2>
+<table width="100%">
+  <td width="50%">
+    <a href="https://open.spotify.com/user/joshthekid234">
+      <img src="https://novatorem-sigma-vert.vercel.app/api/spotify?background_color=333&border_color=ffffff"></img>
+    </a>
+  </td>
+  <td width="50%">
+      <a href="https://music.apple.com/profile/joshuanoakes2345">
+        <img src="https://music-profile.rayriffy.com/theme/dark.svg?uid=000888.92efde76953c4923a62a9c1eb35a0e1f.2228"></img>
+    </a>
+  </td>
+</table>
+
 <h2 align="center">Github Stats 📉</h2>
 <table width="100%">
   <td width="50%">
@@ -19,7 +28,3 @@
     </a>
   </td>
 </table>
-<h2 align="center">insane asuka</h2>
-<p align="center">
-  <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;Joshua-Noakes1&#x2F;joshua-noakes1&#x2F;trunk&#x2F;lib&#x2F;gifs&#x2F;media&#x2F;asuka-evangelion.gif?raw&#x3D;true">
-</p>
