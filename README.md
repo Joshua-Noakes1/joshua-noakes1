@@ -1,6 +1,7 @@
 # Hey, I'm Joshua 🚀
 
-I'm Joshua, a college student currently studying Computer Science and Networking. In my free time, I like to work on random projects, many of which don't see the light of day. I'm currently interested in learning MongoDB, Nuxt, and Ansible.    
+I'm Joshua, a college student currently studying Computer Science and Networking.  
+In my free time, I work on random projects, many of which don't see the light of day. Currently, I'm learning MongoDB, Nuxt, and Ansible.  
 I also own a sizeable amount of [Blåhaj sharks](https://www.ikea.com/gb/en/p/blahaj-soft-toy-shark-30373588/).
 
 ![https://skillicons.dev/icons?i=ansible,js,ts,html,css,nodejs,python,mongo,nuxt](https://skillicons.dev/icons?i=ansible,js,ts,html,css,nodejs,python,mongo,nuxt)
